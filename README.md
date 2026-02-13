@@ -34,6 +34,9 @@ SenseCareBelt/
 
 ## Authors
 **Mouna MOUHIB**
+
 **Bouchra OUTAFRAOUT**
+
 **Justin M.KPODAR**
+
 Embedded Systems Engineering Students
