@@ -16,12 +16,19 @@ The system communicates alerts wirelessly and can trigger an external alarm syst
 ## Project Structure
 
 SenseCareBelt/
+
 │
+
 ├── MAS/
+
 │   ├── main1/   -> Main belt system code
+
 │   ├── main2/   -> Alarm system code
+
 │   └── demo/    -> Images and demo video
+
 │
+
 └── README.md
 
 ## Technologies Used
