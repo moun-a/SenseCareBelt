@@ -33,7 +33,7 @@ SenseCareBelt/
 - IoT Communication
 
 ## Authors
-Mouna MOUHIB
-Bouchra OUTAFRAOUT
-Justin M.KPODAR
-Embedded Systems Engineering StudentS
+**Mouna MOUHIB**
+**Bouchra OUTAFRAOUT**
+**Justin M.KPODAR**
+Embedded Systems Engineering Students
