@@ -47,3 +47,6 @@ SenseCareBelt/
 **Justin M.KPODAR**
 
 Embedded Systems Engineering Students
+
+## License
+This project is open-source and available for educational and research purposes.
